@@ -4,3 +4,4 @@ Time limit: 3 hours
 
 
 6:45 -- start
+7:25 -- break
